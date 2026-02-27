@@ -1,20 +1,58 @@
 {
-  "chip_666": {
-    "autor": "José Federico Mayorga",
-    "ley": "Física Cuántica",
-    "proceso": "Colapso de Ondas",
-    "reprogramacion": [
-      { "1": { "iglesia": "Amarás a Dios sobre todas las cosas", "positivo": "AMARSE" } },
-      { "2": { "iglesia": "No tomarás el nombre de Dios en vano", "positivo": "VIVIR" } },
-      { "3": { "iglesia": "Santificarás las fiestas", "positivo": "CELEBRAR" } },
-      { "4": { "iglesia": "Honrarás a tu padre y a tu madre", "positivo": "TRASCENDER" } },
-      { "5": { "iglesia": "No matarás", "positivo": "CUIDARNOS" } },
-      { "6": { "iglesia": "No cometerás actos impuros", "positivo": "COHERENCIA" } },
-      { "7": { "iglesia": "No robarás", "positivo": "DAR" } },
-      { "8": { "iglesia": "No darás falso testimonio ni mentirás", "positivo": "GENUINO" } },
-      { "9": { "iglesia": "No consentirás pensamientos ni deseos impuros", "positivo": "RESPETAR" } },
-      { "10": { "iglesia": "No codiciarás los bienes ajenos", "positivo": "LIBERARSE" } }
-    ],
-    "estado": "Sincronizado"
-  }
+  "entidad": "LEGADO",
+  "autor": "José Federico Mayorga",
+  "objetivo": "Colapso de onda positivo para la humanidad",
+  "matriz_de_contraste": [
+    {
+      "orden": 1,
+      "frecuencia_negativa_iglesia": "Amarás a Dios sobre todas las cosas",
+      "frecuencia_positiva_humanidad": "AMARSE"
+    },
+    {
+      "orden": 2,
+      "frecuencia_negativa_iglesia": "No tomarás el Nombre de Dios en vano",
+      "frecuencia_positiva_humanidad": "VIVIR"
+    },
+    {
+      "orden": 3,
+      "frecuencia_negativa_iglesia": "Santificarás las fiestas",
+      "frecuencia_positiva_humanidad": "CELEBRAR"
+    },
+    {
+      "orden": 4,
+      "frecuencia_negativa_iglesia": "Honrarás a tu padre y a tu madre",
+      "frecuencia_positiva_humanidad": "TRASCENDER"
+    },
+    {
+      "orden": 5,
+      "frecuencia_negativa_iglesia": "No matarás",
+      "frecuencia_positiva_humanidad": "CUIDARNOS"
+    },
+    {
+      "orden": 6,
+      "frecuencia_negativa_iglesia": "No cometerás actos impuros",
+      "frecuencia_positiva_humanidad": "COHERENCIA"
+    },
+    {
+      "orden": 7,
+      "frecuencia_negativa_iglesia": "No robarás",
+      "frecuencia_positiva_humanidad": "DAR"
+    },
+    {
+      "orden": 8,
+      "frecuencia_negativa_iglesia": "No dirás falso testimonio ni mentirás",
+      "frecuencia_positiva_humanidad": "GENUINO"
+    },
+    {
+      "orden": 9,
+      "frecuencia_negativa_iglesia": "No desearás la mujer de tu prójimo",
+      "frecuencia_positiva_humanidad": "RESPETAR"
+    },
+    {
+      "orden": 10,
+      "frecuencia_negativa_iglesia": "No codiciarás los bienes ajenos",
+      "frecuencia_positiva_humanidad": "LIBERARSE"
+    }
+  ],
+  "resultado_esperado": "Abundancia Biológica Universal"
 }
