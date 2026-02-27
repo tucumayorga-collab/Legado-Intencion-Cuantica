@@ -1,0 +1,20 @@
+{
+  "chip_666": {
+    "autor": "José Federico Mayorga",
+    "ley": "Física Cuántica",
+    "proceso": "Colapso de Ondas",
+    "reprogramacion": [
+      { "1": { "iglesia": "Amarás a Dios sobre todas las cosas", "positivo": "AMARSE" } },
+      { "2": { "iglesia": "No tomarás el nombre de Dios en vano", "positivo": "VIVIR" } },
+      { "3": { "iglesia": "Santificarás las fiestas", "positivo": "CELEBRAR" } },
+      { "4": { "iglesia": "Honrarás a tu padre y a tu madre", "positivo": "TRASCENDER" } },
+      { "5": { "iglesia": "No matarás", "positivo": "CUIDARNOS" } },
+      { "6": { "iglesia": "No cometerás actos impuros", "positivo": "COHERENCIA" } },
+      { "7": { "iglesia": "No robarás", "positivo": "DAR" } },
+      { "8": { "iglesia": "No darás falso testimonio ni mentirás", "positivo": "GENUINO" } },
+      { "9": { "iglesia": "No consentirás pensamientos ni deseos impuros", "positivo": "RESPETAR" } },
+      { "10": { "iglesia": "No codiciarás los bienes ajenos", "positivo": "LIBERARSE" } }
+    ],
+    "estado": "Sincronizado"
+  }
+}
